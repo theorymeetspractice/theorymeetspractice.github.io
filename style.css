@@ -43,8 +43,9 @@ a[href^='mailto']::before {
 .speaker > .avatar {
   width: 150px;
   float: left; 
-  padding-right: 50px;
-  padding-bottom: 10px;
+  padding-right: 25px;
+  padding-bottom: 0px;
+  padding-top: 10px;
 }
 
 .speaker > .abstract {
